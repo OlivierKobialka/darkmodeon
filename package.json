@@ -1,0 +1,21 @@
+{
+  "name": "darkmodeon",
+  "displayName": "DarkModeOn",
+  "description": "ultra dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Olivier ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Olivier -color-theme.json"
+      }
+    ]
+  }
+}
