@@ -3,6 +3,7 @@
   "displayName": "DarkModeOn",
   "description": "ultra dark theme",
   "version": "0.0.1",
+  "publisher": "OlivierKobialka",
   "engines": {
     "vscode": "^1.80.0"
   },
