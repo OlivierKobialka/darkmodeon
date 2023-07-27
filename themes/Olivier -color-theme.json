@@ -4,7 +4,7 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#0F111A",
+        "background": "#000000",
         "foreground": "#ffffff"
       }
     },
@@ -684,7 +684,7 @@
     "textLink.activeForeground": "#8F93A2",
     "widget.shadow": "#00000030",
     "button.background": "#717CB450",
-    "debugToolBar.background": "#0F111A",
+    "debugToolBar.background": "#000000",
     "pickerGroup.foreground": "#80CBC4",
     "inputOption.activeBackground": "#8F93A230",
     "inputOption.activeBorder": "#8F93A230",
@@ -731,11 +731,11 @@
     "statusBar.border": "#00000060",
     "statusBar.background": "#000000",
     "statusBar.foreground": "#4B526D",
-    "statusBar.debuggingBackground": "#C792EA",
+    "statusBar.debuggingBackground": "#9900ff",
     "statusBar.debuggingForeground": "#ffffff", 
     "statusBarItem.hoverBackground": "#464B5D20",
-    "statusBarItem.remoteForeground": "#000000",
-    "statusBarItem.remoteBackground": "#80CBC4",
+    "statusBarItem.remoteForeground": "#8F93A2",
+    "statusBarItem.remoteBackground": "#000000",
     "activityBar.background": "#090B10",
     "activityBar.border": "#00000060",
     "activityBar.foreground": "#8F93A2",
@@ -762,7 +762,7 @@
     "dropdown.background": "#0F111A",
     "dropdown.border": "#FFFFFF10",
     "list.hoverForeground": "#FFFFFF",
-    "list.hoverBackground": "#090B10",
+    "list.hoverBackground": "#000000",
     "list.activeSelectionBackground": "#090B10",
     "list.activeSelectionForeground": "#80CBC4",
     "list.inactiveSelectionForeground": "#80CBC4",
@@ -810,7 +810,7 @@
     "diffEditor.removedTextBackground": "#FF537020",
     "notifications.background": "#000000",
     "notifications.foreground": "#8F93A2",
-    "notificationLink.foreground": "#80CBC4",
+    "notificationLink.foreground": "#ffffff",
     "badge.background": "#00000030",
     "badge.foreground": "#464B5D",
     "extensionButton.prominentBackground": "#C3E88D90",
