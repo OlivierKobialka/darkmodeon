@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Olivier ",
+        "label": "Dark Mode ",
         "uiTheme": "vs-dark",
         "path": "./themes/Olivier -color-theme.json"
       }
