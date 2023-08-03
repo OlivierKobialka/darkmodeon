@@ -17,6 +17,11 @@
 				"uiTheme": "vs-dark",
 				"path": "./darkmodeon"
 			}
+		],
+		"resources": [
+			{
+				"url": "https://bzamayo.com/images/19.png"
+			}
 		]
 	}
 }
