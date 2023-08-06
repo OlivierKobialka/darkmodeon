@@ -2,7 +2,7 @@
 	"name": "darkmodeon",
 	"displayName": "DarkModeOn",
 	"description": "ultra dark theme",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "OlivierKobialka",
 	"engines": {
 		"vscode": "^1.80.0"
@@ -15,7 +15,7 @@
 			{
 				"label": "Dark Mode ",
 				"uiTheme": "vs-dark",
-				"path": "./darkmodeon"
+				"path": "themes/darkmodeon.json"
 			}
 		],
 		"resources": [
